@@ -1,6 +1,6 @@
 # covid-data-processor
 
-This program computes covid data from all states of United States from 2021-3-25 to 2021-11-05.
+This program collects and computes covid data from all states of United States from 2021-3-25 to 2021-11-05.
 
 Data Structures include: TreeMap, LinkedList, ArrayList, Array
 
