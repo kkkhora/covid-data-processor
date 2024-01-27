@@ -15,3 +15,6 @@ We assume that the fully-vaccinated number is affected by two factors: a.) the e
 Specifically, the factor is calculated based on the total fully-vaccinated number (covid_data file) per capita(population.txt) being divided by the total livable area(properties.csv) per capita via Zip Code. 
 
 By dividing the livable area per capita, we rule out the economic factor (the objective factor), thus leaving only the subjective factor, which is the willingness of local people to be fully vaccinated.
+
+Please click here to see the project report of this program which covers the additional feature that we have designed and data structures that we used: \
+https://drive.google.com/file/d/1LPKQkLgQW4cwSYsAKOCHDxEsxl3nZiWg/view?usp=sharing
